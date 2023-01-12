@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
   
 setuptools.setup(
     name="statistics_quantile",
-    version="0.0.1",
+    version="0.0.2",
     author="Mahdi-Zarepour",
     author_email="mahdizarepour40@gmail.com",
     packages=["statistics_quantile"],
