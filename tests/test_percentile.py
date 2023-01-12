@@ -1,9 +1,9 @@
 import unittest
 
-from quantile.percentile import Percentile 
+from statistics_quantile.percentile import Percentile 
 
 
-class TestPecsentile(unittest.TestCase):
+class TestPercentile(unittest.TestCase):
     def setUp(self):
         self.data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
         self.p = 15

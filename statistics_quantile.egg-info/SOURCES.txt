@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+statistics_quantile/__init__.py
+statistics_quantile/percentile.py
+statistics_quantile.egg-info/PKG-INFO
+statistics_quantile.egg-info/SOURCES.txt
+statistics_quantile.egg-info/dependency_links.txt
+statistics_quantile.egg-info/top_level.txt

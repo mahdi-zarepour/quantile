@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: statistics-quantile
+Version: 0.0.1
+Summary: quantile in Python
+Home-page: https://github.com/mahdi-zarepour/quantile
+Author: Mahdi-Zarepour
+Author-email: mahdizarepour40@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# quantile in Python
+## descriptions: calculate the quantile of raw data
+### installation: ```pip install quantile```
+### usage Percentile: create a python class whose name is Percentile and its parameters are data and p
+
+
+*Author: Mahdi Zarepour, Statistics student of Shahid Bahonar University of Kerman*
+
+
