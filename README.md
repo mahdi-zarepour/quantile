@@ -1,7 +1,7 @@
 # quantile in Python
-## descriptions: calculate the quantile of raw data
-### installation: ```pip install quantile```
-### usage Percentile: create a python class whose name is Percentile and its parameters are data and p
+## Descriptions: calculate the quantile of raw data
+### Installation: ```pip install statistics-quantile```
+### Usage: Import the desired class and use it.
 
 
 *Author: Mahdi Zarepour, Statistics student of Shahid Bahonar University of Kerman*
